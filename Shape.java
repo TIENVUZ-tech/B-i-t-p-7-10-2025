@@ -10,6 +10,7 @@ public abstract class Shape {
     public static int getShapeCount() {
         return counter;
     }
+    
     public Point getCentrePoint() {
         return centrePoint;
     }
