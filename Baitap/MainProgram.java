@@ -5,7 +5,7 @@ public class MainProgram {
     public static void main(String[] args) {
         ArrayList<Shape> listShape = new ArrayList<>();
 
-        // Tạo các hình với đủ tham số
+        // Khởi tạo các hình
         Circle c = new Circle(new Point(1, 2));         // Tâm (1,2)
         Rectangle r = new Rectangle(new Point(10, 1)); // Tâm (10,1)
         Square s = new Square(new Point(5, 4));         // Tâm (5,4)
