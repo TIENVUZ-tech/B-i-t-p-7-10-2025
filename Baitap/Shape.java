@@ -5,7 +5,7 @@ public abstract class Shape {
 
     public Shape(Point centrePoint) {
         this.centrePoint = centrePoint;
-        this.counter++;
+        counter++;
     }
 
     public static int getShapeCount() {
