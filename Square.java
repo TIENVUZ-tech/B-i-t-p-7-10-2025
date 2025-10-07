@@ -5,6 +5,6 @@ public class Square extends Shape {
 
     @Override
     public String toString() {
-        return "Hinh Vuong" + centrePoint + "]";
+        return "Hinh Vuong[" + centrePoint + "]";
     }
 }
