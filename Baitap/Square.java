@@ -1,5 +1,5 @@
 package Baitap;
-public class Square extends Shape {
+public class Square extends Rectangle {
     public Square(Point centrePoint) {
         super(centrePoint);
     } 
